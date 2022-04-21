@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FindMyIp/static/css/main.e9a66929.css",
+    "main.js": "/FindMyIp/static/js/main.2e1af732.js",
+    "static/js/787.f29d57bb.chunk.js": "/FindMyIp/static/js/787.f29d57bb.chunk.js",
+    "index.html": "/FindMyIp/index.html",
+    "main.e9a66929.css.map": "/FindMyIp/static/css/main.e9a66929.css.map",
+    "main.2e1af732.js.map": "/FindMyIp/static/js/main.2e1af732.js.map",
+    "787.f29d57bb.chunk.js.map": "/FindMyIp/static/js/787.f29d57bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a66929.css",
+    "static/js/main.2e1af732.js"
+  ]
+}
